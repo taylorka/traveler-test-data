@@ -1,12 +1,12 @@
 [
 
 {
-  "full_name":"Benoite Quakley",
+  "full_name": " 'first_name' + 'last_name'",
   "first_name": "Benoite",
   "last_name": "Quakley",
   "user_name_email":"bquakley0@microsoft.com",
   "street_address":"95 Fieldstone Street",
-  "phone":"+48 (376) 335-8598",
+  "phone":"(376) 335-8598",
   "password":"1u67VvM29nn"
 }
 
