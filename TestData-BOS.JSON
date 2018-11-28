@@ -1,12 +1,73 @@
 [
-
 {
-  "first_name": "Kate",
-  "last_name": "Taylor",
-  "user_name_email":"iiugguysk@microsoft.com",
-  "street_address":"95 Fieldstone Street",
-  "phone":"(376) 335-8598",
-  "password":"1u67VvM29nn"
+  "PRIMARY-USER": {
+
+    "ACCOUNT_INFO":{
+      "full_name": "Benoite Quakley",
+      "first_name": "Benoite",
+      "last_name": "Quakley",
+      "user_name_email":"bquakley0@microsoft.com",
+      "street_address":"95 Fieldstone Street",
+      "street_address_line_2":"Apt 2B",
+      "city" : "Boston",
+      "state" : "Massachusetts",
+      "postal_code" : "02474",
+      "phone":"(617) 781-2222",
+      "password_visible": "B0$tonIsGreat123!",
+      "password_hidden": "•••••••••••••••",
+      },
+
+    "PAYMENT_METHODS":{
+      "PRIMARY_CARD":{
+        "payment-card-nickname": "",
+        "payment-card-card-name": "",
+        "payment-card-card-number": "",
+        "payment-card-fourdigits": "",
+        "payment-card-cvn": "",
+        "payment-card-expiration": "",
+      },
+      "SECONDARY_CARD":{
+        "payment-card-nickname": "",
+        "payment-card-card-name": "",
+        "payment-card-card-number": "",
+        "payment-card-fourdigits": "",
+        "payment-card-cvn": "",
+        "payment-card-expiration": "",
+      },
+      "ECHECK":{
+        "echeck-nickname": "",
+        "echeck-routing": "",
+        "echeck-account": "",
+      },
+      },
+      "TRANSIT_CARDS":{
+        "PHYSICAL_CARD":{
+          "transit-card-nickname": "Shawn's Charlie Card",
+          "transit-card-fourdigits": "…4567",
+          "transit-card-serial": "1234 4567 2222 5678",
+        },
+        "MOBILE_CARD":{
+          "transit-card-nickname": "My Charlie Card",
+          "transit-card-fourdigits": "…1234",
+          "transit-card-serial": "1234 4567 2222 5678",
+        },
+        "DIRECT_PAY":{
+          "transit-card-nickname": "Shawn's Visa Card",
+          "transit-card-fourdigits": "…5678",
+          "transit-card-serial": "1234 4567 2222 5678",
+        },
+        "TEMP_CARD":{
+          "transit-card-nickname": "Shawn's Visa Card",
+          "transit-card-fourdigits": "…5678",
+          "transit-card-serial": "1234 4567 2222 5678",
+        },
+        "ALTERNATE_CARD":{
+          "transit-card-nickname": "Shawn's Visa Card",
+          "transit-card-fourdigits": "…5678",
+          "transit-card-serial": "1234 4567 2222 5678",
+        },
+        },
+  },
 }
 
 ]
